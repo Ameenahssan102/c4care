@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438222289672",
+    "project_id": "c4care-988ac",
+    "storage_bucket": "c4care-988ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438222289672:android:df9e0df88103558a098abd",
+        "android_client_info": {
+          "package_name": "app.careforconsulting.c4care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4UCPndxWnsZ-0chWLwqyyljJ85VoXsXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
